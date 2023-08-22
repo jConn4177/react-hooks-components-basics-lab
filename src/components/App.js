@@ -6,7 +6,7 @@ import About from "./About";
 function App() {
   return (
     <div>
-      {<NavBar />}
+      {<Navbar />}
       {<Home />}
       {<About />}
     </div>
